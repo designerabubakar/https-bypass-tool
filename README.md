@@ -49,6 +49,6 @@ Default parameters (editable in `https_bypass_tool.go`):
 
 ## Legal Disclaimer
 
-This project is intended for educational purposes only. Usage against any website without explicit permission may violate their Terms of Service or applicable laws.
+Usage against any website without explicit permission may violate their Terms of Service or applicable laws.
 
 ---
